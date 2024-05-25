@@ -1,0 +1,9 @@
+﻿Probability to Win,Payout Ratio,Correlation Index,Bet #,,Notes
+0.6,1.5,0,1,,Correlation indices are arbitrary identifiers
+0.55,1.8,1,2,,Correlation index = 0 --> independent bet
+0.65,1.7,0,3,,"For correlation indices != 0, bets with matching indices are perfectly correlated"
+0.4,1.3,1,4,,Column D is not used in the code
+0.7,1.4,2,5,,
+0.5,2,0,6,,
+0.75,1.3,2,7,,
+0.45,2.2,3,8,,
