@@ -38,11 +38,11 @@ The script will display the optimal bet allocation for each bet.
 If visualization is chosen, a plot of the selected utility function will be displayed.
 Utility Functions Supported:
 
-Linear: u(w) = w
-Exponential: u(w) = -e^(-alpha * w)
-CRRA: u(w) = (w^(1-gamma)) / (1-gamma)
-Square-root: u(w) = sqrt(w)
-Logarithmic: u(w) = ln(w)
-Quadratic: u(w) = w - beta * w^2
-Hyperbolic: u(w) = (1/y) * (alpha + beta * w)^y
+Linear: u(w) = w;
+Exponential: u(w) = -e^(-alpha * w);
+CRRA: u(w) = (w^(1-gamma)) / (1-gamma);
+Square-root: u(w) = sqrt(w);
+Logarithmic: u(w) = ln(w);
+Quadratic: u(w) = w - beta * w^2;
+Hyperbolic: u(w) = (1/y) * (alpha + beta * w)^y;
 Power: u(w) = (w^k) / k for k < 1
