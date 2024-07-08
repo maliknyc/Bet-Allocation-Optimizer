@@ -36,7 +36,8 @@ Visualization Option: Choose whether you want to see a plot of the utility funct
 **Output:**
 The script will display the optimal bet allocation for each bet.
 If visualization is chosen, a plot of the selected utility function will be displayed.
-Utility Functions Supported
+Utility Functions Supported:
+
 Linear: u(w) = w
 Exponential: u(w) = -e^(-alpha * w)
 CRRA: u(w) = (w^(1-gamma)) / (1-gamma)
