@@ -39,10 +39,10 @@ If visualization is chosen, a plot of the selected utility function will be disp
 Utility Functions Supported:
 
 Linear: u(w) = w <br>
-Exponential: u(w) = -e^(-alpha * w);
-CRRA: u(w) = (w^(1-gamma)) / (1-gamma);
-Square-root: u(w) = sqrt(w);
-Logarithmic: u(w) = ln(w);
-Quadratic: u(w) = w - beta * w^2;
-Hyperbolic: u(w) = (1/y) * (alpha + beta * w)^y;
+Exponential: u(w) = -e^(-alpha * w) <br>
+CRRA: u(w) = (w^(1-gamma)) / (1-gamma) <br>
+Square-root: u(w) = sqrt(w) <br>
+Logarithmic: u(w) = ln(w) <br>
+Quadratic: u(w) = w - beta * w^2 <br>
+Hyperbolic: u(w) = (1/y) * (alpha + beta * w)^y <br>
 Power: u(w) = (w^k) / k for k < 1
